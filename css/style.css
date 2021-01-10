@@ -60,11 +60,17 @@ section{
 }
 .course-info{
     display: flex;
+    
+}
+.duration{
+    margin-left: 1em;
+    margin-top: .2em;
 }
 .course img{
     height: 120px;
     width: 200px;
 }
+
 @media (max-width:992px){
 
     .top-players , .courses{
